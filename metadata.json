@@ -1,0 +1,9 @@
+{
+  "name": "Jarvis Mobile OS - Android AI Assistant",
+  "description": "Personal AI assistant for Android with phone control, app launching, voice dialer, WhatsApp/SMS messaging, daily schedule & reminders.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
